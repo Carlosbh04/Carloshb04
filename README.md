@@ -4,43 +4,42 @@
 
 ### Frontend Developer
 
-Construyo interfaces modernas, responsive y mantenibles, con especial atención a la experiencia de usuario, arquitectura frontend, rendimiento y calidad del código.
+Construyo aplicaciones web modernas, responsive y mantenibles, combinando **UI, lógica, arquitectura frontend, rendimiento y testing**.
 
-**React · JavaScript · Node.js · Testing**
+`React` · `JavaScript` · `Node.js` · `Testing`
 
 <br>
 
 <a href="https://github.com/Carloshb04">
-  <img src="https://img.shields.io/badge/GitHub-Carloshb04-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Carloshb04-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br>
-
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy desarrollador frontend enfocado en construir productos web modernos y funcionales.
+Soy **Frontend Developer** enfocado en crear interfaces modernas, funcionales y bien estructuradas.
 
-Actualmente trabajo principalmente con **JavaScript y React**, combinando desarrollo de interfaces, arquitectura frontend, testing, accesibilidad, rendimiento y diseño responsive.
+Trabajo principalmente con **JavaScript y React**, y actualmente continúo profundizando en arquitectura frontend, testing, rendimiento, accesibilidad y desarrollo backend con Node.js.
 
-Me interesa especialmente construir aplicaciones que no solo se vean bien, sino que estén bien estructuradas y sean fáciles de mantener.
+Me interesa especialmente construir aplicaciones donde la interfaz, la lógica y el estado estén correctamente separados y sean fáciles de mantener.
 
-```js
+```javascript
 const carlos = {
   role: "Frontend Developer",
+  location: "Madrid, Spain",
 
   focus: [
     "Frontend Architecture",
-    "Responsive UI",
+    "Responsive Design",
     "Web Performance",
     "Accessibility",
     "Testing",
   ],
 
-  currentlyWorkingWith: [
+  technologies: [
     "JavaScript",
     "React",
     "Node.js",
@@ -52,198 +51,180 @@ const carlos = {
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,vite" alt="Frontend technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,vite" />
 </p>
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma" alt="Backend technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma" />
 </p>
 
 ### Testing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vitest" />
 </p>
 
-**Vitest · Playwright · Testing Library**
+`Vitest` · `Playwright` · `Testing Library`
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,photoshop" alt="Development tools" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,photoshop" />
 </p>
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ## CodeGym
 
-### Interactive programming training platform
+**Interactive Programming Training Platform**
 
-Aplicación orientada al entrenamiento práctico de programación mediante ejercicios, sesiones y seguimiento del progreso.
+Plataforma diseñada para practicar programación mediante sesiones, ejercicios interactivos y seguimiento del progreso.
 
-**Stack**
+**Tecnologías**
 
 `React` · `JavaScript` · `Vite` · `Node.js` · `Prisma` · `Vitest` · `Playwright`
 
-**Engineering highlights**
+### Funcionalidades
 
 * Sistema de autenticación.
-* Seguimiento de progreso.
-* Gestión y recuperación de sesiones.
-* Motor de ejercicios.
+* Seguimiento del progreso.
+* Gestión de sesiones.
+* Recuperación de sesiones.
+* Motor de ejercicios interactivos.
 * Persistencia de estado.
 * Tests unitarios.
 * Tests de integración.
 * Tests E2E.
-* Arquitectura frontend basada en componentes y providers.
-
-> Proyecto enfocado no solo en UI, sino también en arquitectura, lógica de aplicación y calidad del software.
+* Arquitectura basada en componentes y providers.
 
 ---
 
 ## Oysters AI
 
-### Corporate website for an AI & Marketing agency
+**AI & Marketing Agency Website**
 
-Web corporativa desarrollada con una fuerte orientación a diseño visual, rendimiento, responsive design y experiencia de usuario.
+Web corporativa desarrollada con especial atención al diseño visual, responsive design, rendimiento y experiencia de usuario.
 
-**Stack**
+**Tecnologías**
 
 `React` · `JavaScript` · `Vite` · `React Router` · `CSS`
 
-**Engineering highlights**
+### Trabajo realizado
 
+* Arquitectura frontend.
 * Responsive design.
-* Optimización de rendimiento.
-* SEO por ruta.
+* SEO por rutas.
 * Accesibilidad.
-* Navegación SPA.
+* Optimización de rendimiento.
 * Optimización de imágenes.
 * Animaciones.
+* Navegación SPA.
 * Testing E2E.
-* Arquitectura de componentes reutilizables.
 
 ---
 
 ## Tic Tac Toe
 
-### Vanilla JavaScript Game
+**Vanilla JavaScript Game**
 
-Juego clásico de tres en raya desarrollado utilizando JavaScript sin frameworks.
+Juego de tres en raya desarrollado utilizando JavaScript sin frameworks.
 
-**Stack**
+**Tecnologías**
 
 `HTML5` · `CSS3` · `JavaScript`
 
-**Conceptos aplicados**
+### Conceptos aplicados
 
 * Manipulación del DOM.
-* Event handling.
+* Eventos.
 * Estado de la partida.
-* Cambio de turnos.
+* Gestión de turnos.
 * Detección de victoria.
-* Condicionales.
+* Detección de empate.
 * Funciones.
+* Condicionales.
 * Lógica de juego.
 
-Este proyecto representa parte de mis fundamentos de JavaScript antes de abstraer la lógica mediante frameworks.
+Este proyecto representa parte de mis fundamentos de JavaScript antes de trabajar con abstracciones proporcionadas por frameworks como React.
 
 ---
 
-## Engineering Focus
+## 🧠 Engineering Focus
 
 ```text
-Frontend Architecture     ███████████████████
-Responsive Design         ███████████████████
-JavaScript Logic          ███████████████████
-React                     ███████████████████
-Testing                   ██████████████████
-Performance               █████████████████
-Accessibility             █████████████████
+Frontend Architecture
+Responsive Design
+JavaScript Logic
+React
+State Management
+Testing
+Web Performance
+Accessibility
+Clean UI
 ```
 
-Me interesa especialmente trabajar en:
+Mi enfoque no se limita a conseguir que una interfaz funcione.
 
-* Arquitectura frontend escalable.
-* Separación entre lógica, estado y presentación.
-* Componentes reutilizables.
-* Interfaces responsive.
-* Rendimiento web.
-* Accesibilidad.
-* Testing automatizado.
-* Experiencia de usuario.
+También me interesa:
+
+* mantener una arquitectura clara;
+* separar UI, estado y lógica;
+* evitar componentes difíciles de mantener;
+* reducir regresiones mediante testing;
+* crear experiencias responsive;
+* cuidar accesibilidad y rendimiento.
 
 ---
 
-## Testing & Quality
+## 🧪 Testing & Quality
 
-Mi flujo de desarrollo incluye diferentes niveles de pruebas según las necesidades del proyecto.
-
-**Unit Testing**
+### Unit Testing
 
 `Vitest`
 
-**Integration Testing**
+### Integration Testing
 
 `Vitest` · `Testing Library`
 
-**End-to-End Testing**
+### End-to-End Testing
 
 `Playwright`
 
-El objetivo no es simplemente conseguir que una funcionalidad funcione, sino reducir regresiones y verificar el comportamiento real de la aplicación.
+El testing forma parte de mi proceso de desarrollo para comprobar comportamiento, prevenir regresiones y mantener aplicaciones más fiables.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Carloshb04&show_icons=true&hide_border=true&theme=github_dark" alt="Carlos GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Carloshb04&show_icons=true&hide_border=true&theme=github_dark" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloshb04&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloshb04&layout=compact&hide_border=true&theme=github_dark" />
 
 </div>
 
 ---
 
-## Current Focus
-
-Actualmente sigo profundizando en:
+## 📚 Actualmente profundizando en
 
 ```text
 React Architecture
 Advanced JavaScript
 Node.js
-Backend Architecture
+Backend Development
 Application Security
 Automated Testing
 Web Performance
-```
-
----
-
-## Development Philosophy
-
-```text
-Good UI
-   +
-Solid Logic
-   +
-Maintainable Architecture
-   +
-Testing
-   =
-Reliable Product
 ```
 
 ---
@@ -252,8 +233,12 @@ Reliable Product
 
 ### Carlos Hernández
 
-**Frontend Developer · Madrid, Spain**
+**Frontend Developer · Madrid**
 
-Building better interfaces, one component at a time.
+`React` · `JavaScript` · `Node.js`
+
+<br>
+
+<a href="https://github.com/Carloshb04">GitHub</a>
 
 </div>
