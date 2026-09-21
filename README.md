@@ -4,241 +4,340 @@
 
 ### Frontend Developer
 
-Construyo aplicaciones web modernas, responsive y mantenibles, combinando **UI, lógica, arquitectura frontend, rendimiento y testing**.
-
-`React` · `JavaScript` · `Node.js` · `Testing`
+**Building modern interfaces with solid logic, clean architecture and reliable testing.**
 
 <br>
 
-<a href="https://github.com/Carloshb04">
-  <img src="https://img.shields.io/badge/GitHub-Carloshb04-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
+![Testing](https://img.shields.io/badge/Testing-111827?style=for-the-badge\&logo=vitest\&logoColor=729B1B)
+
+<br>
+
+`Madrid, Spain` · `Frontend Engineering` · `Open to opportunities`
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Soy **Frontend Developer** enfocado en crear interfaces modernas, funcionales y bien estructuradas.
+## About me
 
-Trabajo principalmente con **JavaScript y React**, y actualmente continúo profundizando en arquitectura frontend, testing, rendimiento, accesibilidad y desarrollo backend con Node.js.
+Frontend Developer enfocado en construir productos web modernos, responsive y mantenibles.
 
-Me interesa especialmente construir aplicaciones donde la interfaz, la lógica y el estado estén correctamente separados y sean fáciles de mantener.
+Trabajo principalmente con **JavaScript y React**, prestando especial atención a:
 
-```javascript
-const carlos = {
-  role: "Frontend Developer",
-  location: "Madrid, Spain",
+* arquitectura frontend;
+* gestión de estado;
+* experiencia de usuario;
+* rendimiento;
+* accesibilidad;
+* testing automatizado.
 
-  focus: [
-    "Frontend Architecture",
-    "Responsive Design",
-    "Web Performance",
-    "Accessibility",
-    "Testing",
-  ],
+Mi objetivo es que una interfaz no solo se vea bien: también debe tener una lógica sólida y una arquitectura fácil de mantener.
 
-  technologies: [
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Prisma",
-    "Playwright",
-  ],
-};
+</td>
+
+<td width="50%" valign="top">
+
+## Current focus
+
+```text
+Frontend Architecture
+Advanced JavaScript
+React
+State Management
+Automated Testing
+Web Performance
+Node.js
+Backend Development
 ```
+
+### Currently building
+
+**CodeGym**
+
+Plataforma de entrenamiento interactivo para desarrolladores.
+
+`React` `Node.js` `Prisma` `Playwright`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
+
+<table>
+<tr>
+<td width="25%" valign="top">
 
 ### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,vite,tailwind,bootstrap&perline=4" />
 
-### Backend & Database
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma" />
-</p>
+<td width="25%" valign="top">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql&perline=4" />
+
+</td>
+
+<td width="25%" valign="top">
 
 ### Testing
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vitest" />
-</p>
+<img src="https://skillicons.dev/icons?i=vitest&perline=4" />
 
-`Vitest` · `Playwright` · `Testing Library`
+<br>
+
+`Vitest`
+
+`Playwright`
+
+`Testing Library`
+
+</td>
+
+<td width="25%" valign="top">
 
 ### Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,photoshop" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&perline=3" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# Selected Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## CodeGym
 
 **Interactive Programming Training Platform**
 
-Plataforma diseñada para practicar programación mediante sesiones, ejercicios interactivos y seguimiento del progreso.
+Aplicación orientada al entrenamiento práctico de programación mediante ejercicios, sesiones y seguimiento del progreso.
 
-**Tecnologías**
+### Stack
 
-`React` · `JavaScript` · `Vite` · `Node.js` · `Prisma` · `Vitest` · `Playwright`
+`React` `JavaScript` `Vite`
 
-### Funcionalidades
+`Node.js` `Prisma`
 
-* Sistema de autenticación.
-* Seguimiento del progreso.
-* Gestión de sesiones.
-* Recuperación de sesiones.
-* Motor de ejercicios interactivos.
-* Persistencia de estado.
-* Tests unitarios.
-* Tests de integración.
-* Tests E2E.
-* Arquitectura basada en componentes y providers.
+`Vitest` `Playwright`
 
----
+### Engineering
+
+* Authentication
+* Progress tracking
+* Session recovery
+* Exercise engine
+* State persistence
+* Unit testing
+* Integration testing
+* E2E testing
+
+### Architecture
+
+Componentes, providers, contextos y separación entre lógica, estado y presentación.
+
+<br>
+
+**→ Repository**
+
+</td>
+
+<td width="50%" valign="top">
 
 ## Oysters AI
 
-**AI & Marketing Agency Website**
+**AI & Marketing Corporate Website**
 
-Web corporativa desarrollada con especial atención al diseño visual, responsive design, rendimiento y experiencia de usuario.
+Web corporativa orientada a una experiencia visual moderna, rendimiento y responsive design.
 
-**Tecnologías**
+### Stack
 
-`React` · `JavaScript` · `Vite` · `React Router` · `CSS`
+`React` `JavaScript`
 
-### Trabajo realizado
+`Vite` `React Router`
 
-* Arquitectura frontend.
-* Responsive design.
-* SEO por rutas.
-* Accesibilidad.
-* Optimización de rendimiento.
-* Optimización de imágenes.
-* Animaciones.
-* Navegación SPA.
-* Testing E2E.
+`CSS`
 
----
+### Engineering
+
+* Responsive UI
+* SEO por rutas
+* Accessibility
+* Performance
+* Image optimization
+* Animations
+* SPA navigation
+* E2E testing
+
+### Focus
+
+Experiencia visual, rendimiento y arquitectura de componentes reutilizables.
+
+<br>
+
+**→ Repository**
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ## Tic Tac Toe
 
 **Vanilla JavaScript Game**
 
-Juego de tres en raya desarrollado utilizando JavaScript sin frameworks.
+Proyecto centrado en fundamentos de JavaScript sin frameworks.
 
-**Tecnologías**
+`HTML5` `CSS3` `JavaScript`
 
-`HTML5` · `CSS3` · `JavaScript`
+**Conceptos:** DOM · Events · State · Turn management · Win detection · Game logic
 
-### Conceptos aplicados
+**→ Repository**
 
-* Manipulación del DOM.
-* Eventos.
-* Estado de la partida.
-* Gestión de turnos.
-* Detección de victoria.
-* Detección de empate.
-* Funciones.
-* Condicionales.
-* Lógica de juego.
-
-Este proyecto representa parte de mis fundamentos de JavaScript antes de trabajar con abstracciones proporcionadas por frameworks como React.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Engineering Focus
-
-```text
-Frontend Architecture
-Responsive Design
-JavaScript Logic
-React
-State Management
-Testing
-Web Performance
-Accessibility
-Clean UI
-```
-
-Mi enfoque no se limita a conseguir que una interfaz funcione.
-
-También me interesa:
-
-* mantener una arquitectura clara;
-* separar UI, estado y lógica;
-* evitar componentes difíciles de mantener;
-* reducir regresiones mediante testing;
-* crear experiencias responsive;
-* cuidar accesibilidad y rendimiento.
-
----
-
-## 🧪 Testing & Quality
-
-### Unit Testing
-
-`Vitest`
-
-### Integration Testing
-
-`Vitest` · `Testing Library`
-
-### End-to-End Testing
-
-`Playwright`
-
-El testing forma parte de mi proceso de desarrollo para comprobar comportamiento, prevenir regresiones y mantener aplicaciones más fiables.
-
----
-
-## 📊 GitHub
+## Engineering Focus
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Carloshb04&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloshb04&layout=compact&hide_border=true&theme=github_dark" />
+![Frontend Architecture](https://img.shields.io/badge/Frontend_Architecture-161B22?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-161B22?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-161B22?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Web_Performance-161B22?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/Accessibility-161B22?style=for-the-badge)
+![Clean UI](https://img.shields.io/badge/Clean_UI-161B22?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📚 Actualmente profundizando en
+## Quality & Testing
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Unit
+
+**Vitest**
+
+Lógica aislada y comportamiento de unidades pequeñas.
+
+</td>
+
+<td align="center" width="33%">
+
+### Integration
+
+**Vitest + Testing Library**
+
+Interacción entre componentes, estado y lógica.
+
+</td>
+
+<td align="center" width="33%">
+
+### E2E
+
+**Playwright**
+
+Flujos reales completos dentro de la aplicación.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Carloshb04&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloshb04&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## What I care about
 
 ```text
-React Architecture
-Advanced JavaScript
-Node.js
-Backend Development
-Application Security
-Automated Testing
-Web Performance
+01. Solid logic
+02. Clean architecture
+03. Maintainable components
+04. Reliable testing
+05. Responsive interfaces
+06. Performance
+07. Accessibility
 ```
+
+</td>
+
+<td width="50%" valign="top">
+
+## Development mindset
+
+```javascript
+const product = {
+  ui: "clean",
+  logic: "predictable",
+  architecture: "maintainable",
+  testing: "reliable",
+  performance: "measured",
+};
+
+build(product);
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Carlos Hernández
+### Let's build something useful.
 
-**Frontend Developer · Madrid**
+**Carlos Hernández**
 
-`React` · `JavaScript` · `Node.js`
+Frontend Developer · Madrid
 
-<br>
-
-<a href="https://github.com/Carloshb04">GitHub</a>
+[GitHub](https://github.com/Carloshb04)
 
 </div>
